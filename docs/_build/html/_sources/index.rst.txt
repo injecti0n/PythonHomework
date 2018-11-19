@@ -10,6 +10,7 @@ Welcome to card's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   about
    code
 
 Indices and tables
