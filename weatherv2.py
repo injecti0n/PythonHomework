@@ -22,6 +22,7 @@ plt.plot(timestamps, temperatures)
 ## Set the axis labels
 plt.ylabel('Temperature')
 plt.xlabel('Time')
+plt.savefig('foo.png')
 plt.show()
 #info
 print(first_record, "\n")
